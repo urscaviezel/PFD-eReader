@@ -1,0 +1,45 @@
+# Third-party notices
+
+PFD eReader © 2026 Cavi. The app's own source code is free software under the MIT License.
+Third-party components keep their own licenses, listed below.
+Source code and releases: https://github.com/urscaviezel/PFD-eReader
+
+Der eigene Quellcode von PFD eReader steht unter der MIT-Lizenz. Komponenten von Drittanbietern behalten ihre eigenen Lizenzen (siehe unten).
+
+## MIT License (PFD eReader)
+
+Copyright (c) 2026 Cavi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Open-source components
+
+- SharpCompress 0.30.1 – MIT License – Copyright (c) 2014 Adam Hathcock – https://github.com/adamhathcock/sharpcompress
+- System.Text.Encoding.CodePages 5.0.0 – MIT License – Copyright (c) .NET Foundation and Contributors – https://github.com/dotnet/runtime
+- SMBJ 0.14.0 – Apache License 2.0 – Copyright Jeroen van Erp and contributors – https://github.com/hierynomus/smbj
+- DCE/RPC client 0.12.0 – Apache License 2.0 – Rapid7 – https://github.com/rapid7/smb-dcerpc
+- Guava – Apache License 2.0 – Google – https://github.com/google/guava
+- Bouncy Castle – MIT-style Bouncy Castle License – https://www.bouncycastle.org/licence.html
+- SLF4J – MIT License – QOS.ch – https://www.slf4j.org
+- Lora (Cyreal) – SIL Open Font License 1.1 – https://github.com/cyrealtype/Lora-Cyrillic
+- Inter (Rasmus Andersson) – SIL Open Font License 1.1 – https://rsms.me/inter/
+
+The full texts of the Apache License 2.0 and the SIL Open Font License 1.1 are available at https://www.apache.org/licenses/LICENSE-2.0 and https://openfontlicense.org.
+
+## Proprietary components (included in the app, not in the source code)
+
+- Unity Engine, TextMesh Pro, Universal Render Pipeline – © Unity Technologies – Unity Terms of Service / Unity Companion License. Made with Unity.
+- Play For Dream (YVR) Unity SDK 3.1.0 – © Play For Dream – used under the developer terms of Play For Dream.
+- 3D WebView for Android – © Vuplex, Inc. – commercial license (used for the TV feature).
+- 3D rooms "Loft", "Spa Suite", "Resort Suite" – obtained from Fab (Epic Games) under the Fab Standard License.
+- Sky panoramas from the Unity Asset Store ("8K Skybox Pack Free", "AllSkyFree", "MilkyWay", "SkySeries Freebie") – Unity Asset Store EULA.
+
+These components may only be used as part of this app and are not covered by the MIT License.
+
+## Trademarks
+
+YouTube is a trademark of Google LLC. Play For Dream and PFDMR are trademarks of their respective owner. PFD eReader is an independent project and is not affiliated with or endorsed by these companies.

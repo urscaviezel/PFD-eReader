@@ -1,0 +1,866 @@
+{
+"Bibliothek": [
+"Library",
+"Bibliothèque"
+],
+"Aktualisieren": [
+"Refresh",
+"Actualiser"
+],
+"Zum Buch": [
+"Back to book",
+"Retour au livre"
+],
+"Anleitung": [
+"Guide",
+"Guide"
+],
+"Ordner eBooks freigeben": [
+"Allow access to eBooks",
+"Autoriser l’accès à eBooks"
+],
+"Bücher": [
+"Books",
+"Livres"
+],
+"Kapitel": [
+"Chapters",
+"Chapitres"
+],
+"Seiten": [
+"Pages",
+"Pages"
+],
+"Seite": [
+"Page",
+"Page"
+],
+"von": [
+"of",
+"sur"
+],
+"Merkliste": [
+"Bookmarks",
+"Signets"
+],
+"Lesezeichen setzen / entfernen": [
+"Toggle bookmark",
+"Ajouter / retirer un signet"
+],
+"Schrift kleiner": [
+"Smaller text",
+"Réduire le texte"
+],
+"Schrift grösser": [
+"Larger text",
+"Agrandir le texte"
+],
+"Verkleinern": [
+"Zoom out",
+"Dézoomer"
+],
+"Vergrössern": [
+"Zoom in",
+"Zoomer"
+],
+"Vorherige Seite": [
+"Previous page",
+"Page précédente"
+],
+"Nächste Seite": [
+"Next page",
+"Page suivante"
+],
+"Heller Modus": [
+"Light mode",
+"Mode clair"
+],
+"Dunkler Modus": [
+"Dark mode",
+"Mode sombre"
+],
+"Einstellungen": [
+"Settings",
+"Réglages"
+],
+"Schliessen": [
+"Close",
+"Fermer"
+],
+"Anzeige": [
+"Display",
+"Affichage"
+],
+"Umgebung": [
+"Environment",
+"Environnement"
+],
+"Follow Me": [
+"Follow Me",
+"Suivi du regard"
+],
+"Sprache": [
+"Language",
+"Langue"
+],
+"Controller": [
+"Controllers",
+"Manettes"
+],
+"Fenster zentrieren": [
+"Center window",
+"Centrer la fenêtre"
+],
+"App beenden": [
+"Quit app",
+"Quitter l’application"
+],
+"Passthrough": [
+"Passthrough",
+"Passthrough"
+],
+"Ein": [
+"On",
+"Activé"
+],
+"Aus": [
+"Off",
+"Désactivé"
+],
+"Lesemodus": [
+"Reading mode",
+"Mode lecture"
+],
+"Hell": [
+"Light",
+"Clair"
+],
+"Dunkel": [
+"Dark",
+"Sombre"
+],
+"Schriftgrösse": [
+"Text size",
+"Taille du texte"
+],
+"PDF- und Comic-Zoom": [
+"PDF and comic zoom",
+"Zoom PDF et BD"
+],
+"Bevorzugte Hand": [
+"Preferred hand",
+"Main préférée"
+],
+"Links": [
+"Left",
+"Gauche"
+],
+"Rechts": [
+"Right",
+"Droite"
+],
+"Räume, Panoramen und Umgebungshelligkeit folgen in der nächsten Etappe.": [
+"Rooms, panoramas and environment brightness are coming in the next update.",
+"Les pièces, panoramas et la luminosité de l’environnement arrivent dans la prochaine version."
+],
+"Das Buch folgt sanft deiner Blickrichtung. Greifen und Verschieben bleibt möglich; der neue Platz wird übernommen.": [
+"The book gently follows your gaze. You can still grab and move it; the new placement is kept.",
+"Le livre suit doucement votre regard. Vous pouvez toujours le saisir et le déplacer ; le nouvel emplacement est conservé."
+],
+"Richtet das Buch auf Augenhöhe vor dir aus. Distanz und Grösse bleiben erhalten.": [
+"Places the book at eye level in front of you. Distance and size are kept.",
+"Place le livre à hauteur des yeux devant vous. Distance et taille sont conservées."
+],
+"Diese Hand zeigt im Ruhezustand. Beide Controller bleiben nutzbar; die Menütaste ist immer links.": [
+"This hand points when idle. Both controllers remain usable; the menu button is always on the left.",
+"Cette main pointe au repos. Les deux manettes restent utilisables ; le bouton Menu est toujours à gauche."
+],
+"Speichert die Leseposition und beendet die App.": [
+"Saves your reading position and quits the app.",
+"Enregistre la position de lecture et quitte l’application."
+],
+"Ausführen": [
+"Run",
+"Exécuter"
+],
+"Löschen": [
+"Delete",
+"Supprimer"
+],
+"Buch vom Headset löschen?": [
+"Delete this book from the headset?",
+"Supprimer ce livre du casque ?"
+],
+"Abbrechen": [
+"Cancel",
+"Annuler"
+],
+"Buch gelöscht.": [
+"Book deleted.",
+"Livre supprimé."
+],
+"Löschen fehlgeschlagen: ": [
+"Delete failed: ",
+"Échec de suppression : "
+],
+"Lade": [
+"Loading",
+"Chargement"
+],
+"intern": [
+"internal",
+"interne"
+],
+"Bücher gefunden": [
+"books found",
+"livres trouvés"
+],
+"Zugriff auf den Ordner eBooks ist noch nicht freigegeben.": [
+"Access to the eBooks folder has not been granted yet.",
+"L’accès au dossier eBooks n’est pas encore autorisé."
+],
+"Noch keine Lesezeichen. Mit dem Stern in der Leiste die aktuelle Doppelseite merken.": [
+"No bookmarks yet. Use the star in the toolbar to bookmark the current spread.",
+"Aucun signet. Utilisez l’étoile de la barre pour marquer la double page."
+],
+"Konnte nicht öffnen: ": [
+"Could not open: ",
+"Impossible d’ouvrir : "
+],
+"Anleitung fehlt im Paket.": [
+"Guide is missing from the package.",
+"Le guide est absent du paquet."
+],
+"Weiterlesen": [
+"Continue",
+"Continuer"
+],
+"Umgebungshelligkeit": [
+"Environment brightness",
+"Luminosité de l’environnement"
+],
+"Dunkel (ohne Raum)": [
+"Dark (no room)",
+"Sombre (sans pièce)"
+],
+"Räume": [
+"Rooms",
+"Pièces"
+],
+"Panoramen": [
+"Panoramas",
+"Panoramas"
+],
+"Keine Panoramen gefunden. Bilder (2:1 mono oder 1:1 Stereo oben/unten) nach Pictures/Envoirements kopieren.": [
+"No panoramas found. Copy images (2:1 mono or 1:1 stereo top/bottom) to Pictures/Envoirements.",
+"Aucun panorama. Copiez des images (2:1 mono ou 1:1 stéréo haut/bas) dans Pictures/Envoirements."
+],
+"Tageszeit": [
+"Time of day",
+"Moment"
+],
+"Tag": [
+"Day",
+"Jour"
+],
+"Abend": [
+"Evening",
+"Soir"
+],
+"Körpergrösse": [
+"Body height",
+"Taille"
+],
+"Augen tauschen": [
+"Swap eyes",
+"Inverser les yeux"
+],
+"Lade Umgebung …": [
+"Loading environment …",
+"Chargement de l’environnement…"
+],
+"Sound": [
+"Sound",
+"Son"
+],
+"Import": [
+"Import",
+"Importer"
+],
+"Ambient": [
+"Ambient",
+"Ambiance"
+],
+"Android": [
+"Android",
+"Android"
+],
+"Audio nicht abspielbar: ": [
+"Cannot play audio: ",
+"Lecture audio impossible : "
+],
+"Auswählen": [
+"Choose",
+"Choisir"
+],
+"Benutzer": [
+"User",
+"Utilisateur"
+],
+"Buch/Bücher nach eBooks kopiert.": [
+"book(s) copied to eBooks.",
+"livre(s) copié(s) dans eBooks."
+],
+"Datei auswählen, um sie nach eBooks zu kopieren.": [
+"Select a file to copy it to eBooks.",
+"Choisissez un fichier à copier dans eBooks."
+],
+"Dateiauswahl geöffnet …": [
+"File picker opened …",
+"Sélecteur ouvert …"
+],
+"Dateiauswahl öffnen": [
+"Open file picker",
+"Ouvrir le sélecteur"
+],
+"Diesen Ordner": [
+"This folder",
+"Ce dossier"
+],
+"Dieses Verzeichnis ist leer.": [
+"This folder is empty.",
+"Ce dossier est vide."
+],
+"Domäne": [
+"Domain",
+"Domaine"
+],
+"Freigabe": [
+"Share",
+"Partage"
+],
+"Freigabe auswählen": [
+"Choose a share",
+"Choisir un partage"
+],
+"Freigaben": [
+"Shares",
+"Partages"
+],
+"Freigaben werden gelesen …": [
+"Reading shares …",
+"Lecture des partages …"
+],
+"Gerät auswählen": [
+"Choose a device",
+"Choisir un appareil"
+],
+"Gesamt": [
+"Master",
+"Général"
+],
+"Headset": [
+"Headset",
+"Casque"
+],
+"Hinzufügen": [
+"Add",
+"Ajouter"
+],
+"Importiert: ": [
+"Imported: ",
+"Importé : "
+],
+"In eBooks gespeichert: ": [
+"Saved to eBooks: ",
+"Enregistré dans eBooks : "
+],
+"Kein Musikordner gewählt": [
+"No music folder chosen",
+"Aucun dossier musical"
+],
+"Keine Audiodateien gefunden.": [
+"No audio files found.",
+"Aucun fichier audio."
+],
+"Keine Datei ausgewählt.": [
+"No file selected.",
+"Aucun fichier choisi."
+],
+"Keine Freigaben sichtbar. Namen manuell eingeben.": [
+"No shares visible. Enter the name manually.",
+"Aucun partage visible. Saisissez le nom."
+],
+"Keine Geräte gefunden. Server manuell eingeben.": [
+"No devices found. Enter the server manually.",
+"Aucun appareil trouvé. Saisissez le serveur."
+],
+"Kopieren: ": [
+"Copying: ",
+"Copie : "
+],
+"Lautstärke": [
+"Volume",
+"Volume"
+],
+"Leerzeichen": [
+"Space",
+"Espace"
+],
+"Musik": [
+"Music",
+"Musique"
+],
+"Netzwerk": [
+"Network",
+"Réseau"
+],
+"Netzwerkzugriff nur auf dem Headset.": [
+"Network access only on the headset.",
+"Accès réseau uniquement sur le casque."
+],
+"Noch keine Klänge. Audiodateien in Music/Ambient Sounds ablegen und mit „Hinzufügen“ auswählen.": [
+"No sounds yet. Put audio files into Music/Ambient Sounds and pick them with “Add”.",
+"Aucun son. Placez des fichiers audio dans Music/Ambient Sounds puis « Ajouter »."
+],
+"Nur auf dem Headset verfügbar.": [
+"Only available on the headset.",
+"Disponible uniquement sur le casque."
+],
+"Passwort": [
+"Password",
+"Mot de passe"
+],
+"Passwort konnte nicht gespeichert werden.": [
+"Password could not be saved.",
+"Impossible d’enregistrer le mot de passe."
+],
+"Passwort speichern (verschlüsselt auf dem Headset)": [
+"Save password (encrypted on the headset)",
+"Enregistrer le mot de passe (chiffré sur le casque)"
+],
+"Server / IP": [
+"Server / IP",
+"Serveur / IP"
+],
+"Server zuerst eingeben oder suchen.": [
+"Enter or search for a server first.",
+"Saisissez ou recherchez d’abord un serveur."
+],
+"Sound nicht verfügbar.": [
+"Sound unavailable.",
+"Son indisponible."
+],
+"Speicher": [
+"Storage",
+"Stockage"
+],
+"Suche beendet": [
+"Search finished",
+"Recherche terminée"
+],
+"Suche im lokalen Netz …": [
+"Searching the local network …",
+"Recherche sur le réseau local …"
+],
+"Suchen": [
+"Search",
+"Rechercher"
+],
+"Ungültiger Server oder Netzwerkpfad": [
+"Invalid server or network path",
+"Serveur ou chemin réseau invalide"
+],
+"Verbinde und lese Ordner …": [
+"Connecting and reading folder …",
+"Connexion et lecture du dossier …"
+],
+"Verbinden": [
+"Connect",
+"Connecter"
+],
+"Zum Eingeben auswählen": [
+"Select to enter",
+"Sélectionner pour saisir"
+],
+"hinzugefügt": [
+"added",
+"ajouté"
+],
+"in eBooks": [
+"in eBooks",
+"dans eBooks"
+],
+"Öffnet die Android-Dateiauswahl. Dort erscheinen auch Google Drive, Dropbox und andere Cloud-Speicher, sofern deren App auf dem Headset installiert und angemeldet ist. Ausgewählte Bücher werden nach eBooks kopiert.": [
+"Opens the Android file picker. Google Drive, Dropbox and other cloud storage appear there if their app is installed and signed in on the headset. Selected books are copied to eBooks.",
+"Ouvre le sélecteur Android. Google Drive, Dropbox et autres stockages cloud y apparaissent si leur application est installée et connectée sur le casque. Les livres choisis sont copiés dans eBooks."
+],
+"Übernehmen": [
+"Apply",
+"Valider"
+],
+"Server wird kontaktiert …": [
+"Contacting server …",
+"Contact du serveur …"
+],
+"Anmeldung läuft …": [
+"Signing in …",
+"Connexion …"
+],
+"Freigabe wird geöffnet …": [
+"Opening share …",
+"Ouverture du partage …"
+],
+"Dateien werden gelesen …": [
+"Reading files …",
+"Lecture des fichiers …"
+],
+"Kopieren …": [
+"Copying …",
+"Copie …"
+],
+"Server übernommen. Benutzer und Passwort eingeben, dann „Freigaben“.": [
+"Server set. Enter user and password, then “Shares”.",
+"Serveur choisi. Saisissez utilisateur et mot de passe, puis « Partages »."
+],
+"Bildschärfe / Kantenglättung": [
+"Sharpness / anti-aliasing",
+"Netteté / anticrénelage"
+],
+"Standard": [
+"Standard",
+"Standard"
+],
+"Hoch": [
+"High",
+"Élevée"
+],
+"Sehr hoch": [
+"Very high",
+"Très élevée"
+],
+"Höher = ruhigere Kanten und schärfere Schrift, braucht aber mehr Grafikleistung.": [
+"Higher = calmer edges and sharper text, but needs more GPU power.",
+"Plus élevé = bords plus calmes et texte plus net, mais plus de puissance graphique."
+],
+"Nacht": [
+"Night",
+"Nuit"
+],
+"PDF konnte nicht geoeffnet werden: ": [
+"Could not open PDF: ",
+"Impossible d’ouvrir le PDF : "
+],
+"PDF enthaelt keine Seiten.": [
+"The PDF has no pages.",
+"Le PDF ne contient aucune page."
+],
+"PDF-Anzeige ist nur auf dem Headset verfuegbar (Android PdfRenderer).": [
+"PDF viewing is only available on the headset (Android PdfRenderer).",
+"L’affichage PDF n’est disponible que sur le casque (Android PdfRenderer)."
+],
+"Archiv konnte nicht geoeffnet werden.": [
+"Could not open the archive.",
+"Impossible d’ouvrir l’archive."
+],
+"Archiv enthaelt keine unterstuetzten Bildseiten.": [
+"The archive contains no supported image pages.",
+"L’archive ne contient aucune page image prise en charge."
+],
+"Bildseite ist zu gross.": [
+"Image page is too large.",
+"La page image est trop grande."
+],
+"Bildseite konnte nicht dekodiert werden.": [
+"Image page could not be decoded.",
+"Impossible de décoder la page image."
+],
+"Textdatei ist zu gross (max. 8 MiB).": [
+"Text file is too large (max. 8 MiB).",
+"Fichier texte trop volumineux (max. 8 Mio)."
+],
+"Verschluesselte EPUB-Ressourcen / DRM werden nicht unterstuetzt.": [
+"Encrypted EPUB resources / DRM are not supported.",
+"Les ressources EPUB chiffrées / DRM ne sont pas prises en charge."
+],
+"EPUB enthaelt keine Paketdatei.": [
+"The EPUB has no package file.",
+"L’EPUB ne contient pas de fichier de paquet."
+],
+"EPUB-Lesereihenfolge verweist auf ein nicht unterstuetztes Kapitel.": [
+"The EPUB reading order points to an unsupported chapter.",
+"L’ordre de lecture de l’EPUB renvoie à un chapitre non pris en charge."
+],
+"EPUB enthaelt keine lesbaren Textkapitel.": [
+"The EPUB contains no readable text chapters.",
+"L’EPUB ne contient aucun chapitre de texte lisible."
+],
+"XML-DTDs und externe Entitaeten sind nicht erlaubt.": [
+"XML DTDs and external entities are not allowed.",
+"Les DTD XML et entités externes ne sont pas autorisées."
+],
+"Externe EPUB-Verweise sind nicht erlaubt.": [
+"External EPUB references are not allowed.",
+"Les références EPUB externes ne sont pas autorisées."
+],
+"EPUB-Datei fehlt: ": [
+"EPUB file missing: ",
+"Fichier EPUB manquant : "
+],
+"Ordner eBooks nicht lesbar: ": [
+"eBooks folder not readable: ",
+"Dossier eBooks illisible : "
+],
+"Raum nicht gefunden: ": [
+"Room not found: ",
+"Pièce introuvable : "
+],
+"Panorama nicht lesbar: ": [
+"Panorama not readable: ",
+"Panorama illisible : "
+],
+"Bild nicht dekodierbar": [
+"Image could not be decoded",
+"Image impossible à décoder"
+],
+"Fehler": [
+"Error",
+"Erreur"
+],
+"Ungültiger Netzwerkpfad": [
+"Invalid network path",
+"Chemin réseau invalide"
+],
+"Ungültiger Server": [
+"Invalid server",
+"Serveur invalide"
+],
+"Anmeldung fehlgeschlagen (Benutzer/Passwort prüfen)": [
+"Sign-in failed (check user/password)",
+"Échec de la connexion (vérifier utilisateur/mot de passe)"
+],
+"Freigabe nicht gefunden": [
+"Share not found",
+"Partage introuvable"
+],
+"Server nicht gefunden": [
+"Server not found",
+"Serveur introuvable"
+],
+"Zeitüberschreitung – Server erreichbar?": [
+"Timeout – is the server reachable?",
+"Délai dépassé – serveur joignable ?"
+],
+"Zu viele Einträge": [
+"Too many entries",
+"Trop d’entrées"
+],
+"Zielordner nicht verfügbar": [
+"Target folder not available",
+"Dossier de destination indisponible"
+],
+"Zu viele gleichnamige Dateien": [
+"Too many files with the same name",
+"Trop de fichiers portant le même nom"
+],
+"Drehung": [
+"Turning",
+"Rotation"
+],
+"Gleitend": [
+"Smooth",
+"Fluide"
+],
+"Drehung mit dem rechten Stick: gleitend oder in Schritten.": [
+"Turning with the right stick: smooth or in steps.",
+"Rotation avec le stick droit : fluide ou par paliers."
+],
+"Foveated Rendering": [
+"Foveated rendering",
+"Rendu fovéal"
+],
+"Niedrig": [
+"Low",
+"Faible"
+],
+"Mittel": [
+"Medium",
+"Moyen"
+],
+"Rand des Sichtfelds mit weniger Auflösung berechnen – spart Grafikleistung, der Rand wird etwas unschärfer.": [
+"Renders the edge of your view at lower resolution – saves graphics power, the edge gets slightly blurrier.",
+"Calcule le bord du champ de vision en résolution réduite – économise de la puissance graphique, le bord devient un peu plus flou."
+],
+"Keine Bücher gefunden. Bücher (EPUB, FB2, PDF, TXT, HTML, Markdown) oder Comics (CBZ, CBR, CB7, CBT) in den Ordner eBooks kopieren und Aktualisieren wählen.": [
+"No books found. Copy books (EPUB, FB2, PDF, TXT, HTML, Markdown) or comics (CBZ, CBR, CB7, CBT) into the eBooks folder and choose Refresh.",
+"Aucun livre trouvé. Copiez des livres (EPUB, FB2, PDF, TXT, HTML, Markdown) ou des BD (CBZ, CBR, CB7, CBT) dans le dossier eBooks puis choisissez Actualiser."
+],
+"Keine Bücher oder Comics in diesem Ordner.": [
+"No books or comics in this folder.",
+"Aucun livre ni BD dans ce dossier."
+],
+"Dieses Textformat wird nicht unterstuetzt.": [
+"This text format is not supported.",
+"Ce format de texte n'est pas pris en charge."
+],
+"Datei ist zu gross (max. 8 MiB).": [
+"File is too large (max. 8 MiB).",
+"Fichier trop volumineux (max. 8 Mio)."
+],
+"Archiv enthaelt keine FB2-Datei.": [
+"Archive contains no FB2 file.",
+"L'archive ne contient aucun fichier FB2."
+],
+"FB2-Datei ist zu gross (max. 8 MiB).": [
+"FB2 file is too large (max. 8 MiB).",
+"Fichier FB2 trop volumineux (max. 8 Mio)."
+],
+"Ungueltiges FB2-Archiv.": [
+"Invalid FB2 archive.",
+"Archive FB2 invalide."
+],
+"FB2 enthaelt keinen Text.": [
+"FB2 contains no text.",
+"Le FB2 ne contient pas de texte."
+],
+"FB2 enthaelt keine lesbaren Kapitel.": [
+"FB2 contains no readable chapters.",
+"Le FB2 ne contient aucun chapitre lisible."
+],
+"Die Seite enthaelt keinen lesbaren Text.": [
+"The page contains no readable text.",
+"La page ne contient aucun texte lisible."
+],
+"Die Markdown-Datei enthaelt keinen Text.": [
+"The Markdown file contains no text.",
+"Le fichier Markdown ne contient pas de texte."
+],
+"Unbekanntes Archivformat.": [
+"Unknown archive format.",
+"Format d'archive inconnu."
+],
+"TAR-Archiv ist beschaedigt.": [
+"TAR archive is damaged.",
+"L'archive TAR est endommagée."
+],
+"Archiv konnte nicht gelesen werden.": [
+"Archive could not be read.",
+"Impossible de lire l'archive."
+],
+"Archiv ist verschluesselt.": [
+"Archive is password-protected.",
+"L'archive est protégée par mot de passe."
+],
+"Archiv ist zu gross (entpackt max. 2 GiB).": [
+"Archive is too large (max. 2 GiB unpacked).",
+"Archive trop volumineuse (max. 2 Gio décompressés)."
+],
+"Comic wird entpackt (nur beim ersten Öffnen)": [
+"Unpacking comic (first time only)",
+"Décompression de la BD (première ouverture seulement)"
+],
+"App-Info": [
+"App info",
+"Infos sur l'app"
+],
+"Freie Software unter der MIT-Lizenz": [
+"Free software under the MIT License",
+"Logiciel libre sous licence MIT"
+],
+"GitHub-Seite folgt": [
+"GitHub page coming soon",
+"Page GitHub à venir"
+],
+"Lizenzen & Drittanbieter": [
+"Licenses & third parties",
+"Licences et tiers"
+],
+"Updates": [
+"Updates",
+"Mises à jour"
+],
+"Automatisch suchen": [
+"Check automatically",
+"Rechercher automatiquement"
+],
+"Nach Updates suchen": [
+"Check for updates",
+"Rechercher des mises à jour"
+],
+"Installieren": [
+"Install",
+"Installer"
+],
+"Herunterladen & installieren": [
+"Download & install",
+"Télécharger et installer"
+],
+"Release-Seite": [
+"Release page",
+"Page de version"
+],
+"Lade Update herunter …": [
+"Downloading update …",
+"Téléchargement de la mise à jour …"
+],
+"Suche nach Updates …": [
+"Checking for updates …",
+"Recherche de mises à jour …"
+],
+"Neue Version verfügbar:": [
+"New version available:",
+"Nouvelle version disponible :"
+],
+"Installiert:": [
+"Installed:",
+"Installée :"
+],
+"Du hast die neueste Version.": [
+"You have the latest version.",
+"Vous avez la dernière version."
+],
+"Installer geöffnet – bitte dort bestätigen.": [
+"Installer opened – please confirm there.",
+"Programme d'installation ouvert – veuillez confirmer."
+],
+"Update verfügbar": [
+"Update available",
+"Mise à jour disponible"
+],
+"Ansehen": [
+"View",
+"Voir"
+],
+"Update-Suche ist noch nicht eingerichtet.": [
+"Update check is not set up yet.",
+"La recherche de mises à jour n'est pas encore configurée."
+],
+"Keine Verbindung zu GitHub.": [
+"Could not reach GitHub.",
+"Impossible de joindre GitHub."
+],
+"Antwort von GitHub nicht lesbar.": [
+"Could not read the response from GitHub.",
+"Réponse de GitHub illisible."
+],
+"Nur auf dem Headset moeglich.": [
+"Only possible on the headset.",
+"Possible uniquement sur le casque."
+],
+"Download fehlgeschlagen.": [
+"Download failed.",
+"Échec du téléchargement."
+],
+"Download unvollstaendig.": [
+"Download incomplete.",
+"Téléchargement incomplet."
+],
+"Bitte \"Unbekannte Apps installieren\" für PFD eReader erlauben und danach erneut auf Installieren tippen.": [
+"Please allow \"Install unknown apps\" for PFD eReader, then tap Install again.",
+"Autorisez « Installer des applis inconnues » pour PFD eReader, puis appuyez de nouveau sur Installer."
+],
+"Installation konnte nicht gestartet werden.": [
+"Installation could not be started.",
+"Impossible de lancer l'installation."
+]
+}

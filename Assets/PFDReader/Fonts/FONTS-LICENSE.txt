@@ -1,0 +1,3 @@
+Lora (Cyreal, https://github.com/cyrealtype/Lora-Cyrillic) und Inter (Rasmus Andersson, https://rsms.me/inter/)
+stehen beide unter der SIL Open Font License 1.1 (https://openfontlicense.org).
+Lora-Regular/Italic wurden aus der Variable-Font auf wght=400 instanziert (fontTools).

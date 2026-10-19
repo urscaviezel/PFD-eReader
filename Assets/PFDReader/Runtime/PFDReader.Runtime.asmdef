@@ -1,0 +1,14 @@
+{
+  "name": "PFDReader.Runtime",
+  "rootNamespace": "PFDReader",
+  "references": ["YVR.Core.Runtime", "YVR.Utilities.Runtime", "Unity.TextMeshPro", "UnityEngine.UI", "Vuplex.WebView", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

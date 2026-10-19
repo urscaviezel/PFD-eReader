@@ -1,0 +1,65 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-buildid.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+
+# Claude Bridge (Laufzeitdateien)
+/ClaudeBridge/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity Build-Temp
+/.utmp/
+
+# Raumquellen (gross, Herkunft: D:/Epic Games/VaultCache/FabLibrary)
+/Assets/PFDReader/Rooms/*/Source/
+/Assets/PFDReader/Rooms/*/Source.meta
+
+# Asset-Store-Pakete (lokal importiert, zu gross fuer git)
+/Assets/8K Skybox Pack Free/
+/Assets/8K Skybox Pack Free.meta
+/Assets/AllSkyFree/
+/Assets/AllSkyFree.meta
+/Assets/MilkyWay/
+/Assets/MilkyWay.meta
+/Assets/SkySeries Freebie/
+/Assets/SkySeries Freebie.meta
+/Assets/Vuplex/
+/Assets/Vuplex.meta
+/Beta/
+
+# Lizenzierte Inhalte (nicht veroeffentlichen)
+/Assets/PFDReader/Rooms/
+/Assets/PFDReader/Rooms.meta
+/Assets/PFDReader/Resources/RoomPreviews/
+/Assets/PFDReader/Resources/RoomPreviews.meta
+/Assets/PFDReader/Resources/rooms.txt*
+/Assets/Resources/PerformanceTest*

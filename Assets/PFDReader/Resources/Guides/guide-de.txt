@@ -1,0 +1,36 @@
+Willkommen im PFD eReader
+
+Die linke Menütaste öffnet und schliesst das Einstellungen-Popup. Links wählst du Anzeige, Umgebung, Follow Me, Sprache oder Controller; rechts findest du die jeweiligen Optionen. Unter Controller stellst du die bevorzugte Bedienhand ein. Beide Controller bleiben nutzbar. B rechts oder Y links schliesst das Popup.
+
+Zeige oberhalb des Buchs auf die Werkzeugleiste für Bibliothek, Import, Kapitel, Schriftgrösse/PDF-Zoom und Lesezeichen. In Listen scrollst du mit dem Daumenstick hoch/runter. Zielen und Trigger wählt einen Eintrag.
+
+Zum Umblättern hältst du den Trigger am Seitenrand, ziehst die Seite zur anderen Seite und lässt los. Grip greift und verschiebt immer das ganze Buch, auch am Seitenrand. Während Grip gehalten wird: Stick hoch/runter ändert die Distanz, links/rechts die Grösse. Follow Me behält deine gewählte Platzierung bei. Zentrieren richtet das Fenster vor dir aus.
+
+EPUB und TXT erlauben eine andere Schriftgrösse. Bei PDF verändern Plus/Minus den Zoom. Im vergrösserten PDF verschiebt der Stick den Ausschnitt, die Pfeile oben blättern weiter. PDFs behalten auch im Dunkelmodus ihre Originalfarben. Hell/Dunkel findest du oben rechts in der Werkzeugleiste und unter Anzeige. A oder X schaltet Passthrough um.
+
+Kopiere EPUB, PDF und TXT nach Internal shared storage/eBooks. Importieren bietet lokale Dateien und PC/NAS via SMB. Verbinden öffnet die Dateiliste; Kopieren lädt das Buch auf das Headset. Löschen in der Bibliothek entfernt nach Bestätigung nur die lokale Datei.
+
+Umgebung bietet Loft, Hotelsuite und deine eigenen Panoramen. + Panorama öffnet den Dateibrowser bei Pictures/Envoirement_3D. Mono: 2:1; Stereo Top/Bottom: 1:1. Entfernen löscht nur den Verweis; die Originaldatei bleibt erhalten.
+
+Sprache DE/EN/FR und App beenden findest du im Einstellungen-Popup. Deine Leseposition wird gespeichert.
+
+Bei geöffnetem Hauptmenü greift Grip das ganze Fenster, auch am Rand, ohne umzublättern. Unter Anzeige regelt Umgebungshelligkeit den Raum und Passthrough getrennt von Buch und Menüs. Klicke auf den Regler oder halte den Trigger und ziehe ihn.
+
+Ambient Sounds und Musik
+
+Unter Sound → Ambient Sounds fügst du Verweise auf eigene Audiodateien hinzu. Der Browser startet in Internal shared storage/Music; Unterordner und andere Ordner sind auswählbar. Unterstützte Formate: MP3, WAV, OGG, M4A, AAC und FLAC, je nach Geräte-Decoder. Dateien bleiben an ihrem Originalort; es werden keine Medienkopien angelegt. Der Papierkorb rechts entfernt nur den Eintrag. Fehlt eine Quelldatei, verschwindet ihr Eintrag beim Aktualisieren des Menüs. Das gilt auch für eigene Panoramen. Markiere die gewünschten Klänge und drücke Play; sie laufen gemeinsam in Schleife. Stopp beendet die Wiedergabe und behält die Auswahl. Jeder Klang hat einen eigenen Lautstärkeregler. Längere Listen scrollst du mit dem Stick.
+
+Unter Sound → Musik wählst du einen separaten Ordner. Play spielt dessen Audiodateien alphabetisch nacheinander, ohne Unterordner einzubeziehen. Nach dem letzten Titel stoppt die Musik. Musik hat eigenes Play/Stopp und einen eigenen Pegel. Ambient Sounds und Musik können gleichzeitig laufen. Master-Lautstärke regelt alles zusammen. Beim Verlassen der App pausiert die Wiedergabe.
+
+Während das Hauptmenü offen ist, pausiert Follow Me. Grip zum Verschieben bleibt verfügbar.
+
+CBZ und ZIP als Bildbücher: Lege das Archiv in eBooks oder importiere es über PC/NAS. JPG, PNG, WebP, GIF und BMP werden auch in Unterordnern als Seiten gelesen, natürlich sortiert (1, 2, 10). GIF zeigt das erste Bild. Das Archiv wird nicht entpackt. Blättern, Zoom und Lesezeichen funktionieren wie bei PDF. ZIP-Dateien ohne unterstützte Bilder sind keine Bildbücher.
+
+
+Handbedienung: Pinch (Daumen + Zeigefinger) am Buchrand blättert; beim geschlossenen Buch öffnet ein Pinch am Rand den Einband. Pinch direkt am Buchrücken hält und verschiebt das Buch. Halte den ersten Pinch und nimm die zweite Hand mit einem weiteren Pinch dazu: Hände auseinander/zusammen ändert die Grösse, beide Hände vor/zurück ändert die Distanz. Lässt du eine Hand los, hält die andere ohne Sprung weiter. In Listen: Pinch halten und nach oben/unten ziehen zum Scrollen; kurzer Pinch ohne Ziehen wählt beim Loslassen. Regler lassen sich mit gehaltenem Pinch ziehen. Daumen + Mittelfinger öffnet/schliesst weiterhin das Hauptmenü.
+
+Beim einhändigen Halten kannst du durch Drehen/Kippen der Hand auch den Neigungswinkel des Buches einstellen. Die zweite Hand hält diesen Winkel beim Skalieren stabil. Zum Loslassen reicht ein kleines Öffnen des Pinch.
+
+Blättern hat Vorrang: Der grösste Teil jeder Seite reagiert auf Pinch zum Umblättern. Nur der schmale Streifen direkt am Buchrücken greift und verschiebt (bei geschlossenem Buch die schmale Mitte). Dazwischen liegt eine neutrale Zone. Der Zeigestrahl zeigt vor dem Pinch: Türkis = blättern, Orange = greifen, Grau = neutral. Die Aktion bleibt bis zum Loslassen festgelegt.
+
+Unter Hauptmenü → Controller lässt sich Handtracking für PFD eReader ein- und ausschalten. Die Einstellung bleibt gespeichert; zum Wiedereinschalten bei deaktivierten Händen den Controller verwenden. Die Handtracking-Einstellung des Betriebssystems wird dadurch nicht verändert.

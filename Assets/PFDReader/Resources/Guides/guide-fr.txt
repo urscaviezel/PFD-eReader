@@ -1,0 +1,36 @@
+Bienvenue dans PFD eReader
+
+Le bouton Menu de la manette gauche ouvre et ferme les réglages. À gauche, choisissez Affichage, Environnement, Follow Me, Langue ou Manettes ; les options apparaissent à droite. Manettes permet de choisir votre main préférée. Les deux manettes restent utilisables. B à droite ou Y à gauche ferme le menu.
+
+Pointez au-dessus du livre pour afficher la bibliothèque, l’importation, les chapitres, la taille du texte/le zoom PDF et les favoris. Faites défiler les listes avec le stick haut/bas. Visez puis appuyez sur la gâchette pour sélectionner.
+
+Pour tourner une page, maintenez la gâchette au bord, faites glisser la page puis relâchez. Grip déplace toujours le livre entier, même aux bords. En maintenant Grip, le stick haut/bas règle la distance, gauche/droite la taille. Follow Me conserve votre placement. Recentrer aligne la fenêtre devant vous.
+
+EPUB et TXT permettent de modifier la taille du texte. Pour un PDF, plus/moins règle le zoom. Le stick déplace la zone agrandie ; les flèches en haut tournent les pages. Les PDF conservent leurs couleurs originales en mode sombre. Clair/Sombre se trouve en haut à droite de la barre d’outils et dans Affichage. A ou X active/désactive le passthrough.
+
+Copiez les fichiers EPUB, PDF et TXT dans Internal shared storage/eBooks. Importer propose les fichiers locaux et PC/NAS via SMB. Connecter ouvre la liste ; Copier télécharge un livre sur le casque. Supprimer dans la bibliothèque efface uniquement la copie locale après confirmation.
+
+Environnement propose Loft, Suite hôtelière et vos panoramas. + Panorama ouvre Pictures/Envoirement_3D. Mono : 2:1 ; stéréo haut/bas : 1:1. Retirer supprime uniquement la référence ; le fichier original reste intact.
+
+Langue DE/EN/FR et Quitter se trouvent dans les réglages. Votre position de lecture est sauvegardée.
+
+Avec le menu principal ouvert, Grip déplace toute la fenêtre, même aux bords, sans tourner de page. Dans Affichage, Luminosité de l’environnement assombrit la pièce et le passthrough indépendamment du livre et des menus. Cliquez sur le curseur ou maintenez la gâchette pour le déplacer.
+
+Sons ambiants et musique
+
+Dans Son → Ambient Sounds, ajoutez des références à vos fichiers audio depuis Internal shared storage/Music ou un autre dossier. Formats : MP3, WAV, OGG, M4A, AAC et FLAC, selon les codecs du casque. Les fichiers restent à leur emplacement original, sans copie. La corbeille supprime uniquement l’entrée. Les fichiers absents disparaissent à l’actualisation du menu. Cela vaut aussi pour les panoramas personnels. Sélectionnez les sons puis Lecture pour les jouer ensemble en boucle. Arrêt conserve la sélection. Chaque son possède son propre volume. Faites défiler les listes avec le stick.
+
+Dans Son → Musique, choisissez un dossier séparé. Lecture joue ses fichiers audio par ordre alphabétique, en passant automatiquement au titre suivant, sans inclure les sous-dossiers. La lecture s’arrête après le dernier titre. La musique possède ses propres commandes Lecture/Arrêt et son volume. Sons ambiants et musique peuvent jouer ensemble. Le volume général règle l’ensemble. La lecture s’interrompt lorsque vous quittez l’application.
+
+Follow Me est suspendu lorsque le menu principal est ouvert. Grip permet toujours de déplacer la fenêtre.
+
+Livres d’images CBZ et ZIP : placez l’archive dans eBooks ou importez-la via PC/NAS. Les images JPG, PNG, WebP, GIF et BMP, y compris dans les sous-dossiers, deviennent des pages triées naturellement (1, 2, 10). GIF affiche la première image. Aucun fichier de page n’est extrait. Feuilletage, zoom et signets fonctionnent comme pour les PDF. Un ZIP sans images compatibles n’est pas un livre d’images.
+
+
+Commandes manuelles : pincez le pouce et l’index au bord du livre pour tourner une page ; un pincement au bord ouvre un livre fermé. Pincez près de la reliure pour tenir et déplacer le livre. Maintenez le pincement puis pincez avec l’autre main : écartez/rapprochez les mains pour changer la taille et avancez/reculez les deux mains pour changer la distance. Relâchez une main pour continuer avec l’autre sans saut. Dans les listes, maintenez le pincement et glissez vers le haut/bas pour défiler ; un pincement bref et immobile sélectionne au relâchement. Les curseurs se règlent en maintenant le pincement. Le pouce et le majeur ouvrent/ferment toujours le menu principal.
+
+En tenant le livre d’une main, tournez ou inclinez la main pour régler son angle. La seconde main conserve cet angle pendant le redimensionnement. Une petite ouverture du pincement suffit pour relâcher.
+
+La plupart de chaque page accepte un pincement pour tourner. Seule une bande étroite près de la reliure déplace le livre (le centre étroit du livre fermé). Une zone neutre sépare les actions. Avant de pincer, le rayon indique turquoise = tourner, orange = saisir, gris = neutre. L’action reste fixée jusqu’au relâchement.
+
+Menu principal → Controller permet d’activer ou de désactiver le suivi des mains dans PFD eReader. Le réglage est mémorisé ; utilisez une manette pour le réactiver. Cela ne modifie pas le réglage du système.

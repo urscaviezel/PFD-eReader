@@ -1,0 +1,36 @@
+Welcome to PFD eReader
+
+The left Menu button opens and closes the settings popup. Select Display, Environment, Follow Me, Language or Controllers on the left; the options appear on the right. Controllers selects your preferred hand. Both controllers remain usable. B on the right or Y on the left closes the popup.
+
+Point above the book for the library, import, chapters, font size/PDF zoom and bookmarks toolbar. Scroll lists with either thumbstick up/down. Aim and press the trigger to select.
+
+To turn a page, hold the trigger at its edge, drag it across and release. Grip always moves the entire book, including at page edges. While holding Grip, thumbstick up/down changes distance and left/right changes size. Follow Me retains your placement. Recenter aligns the window in front of you.
+
+EPUB and TXT support font resizing. PDF plus/minus controls zoom. The stick pans a zoomed PDF; use the top arrows to turn pages. PDFs retain their original colours in dark mode. Light/Dark is at the top right of the toolbar and under Display. A or X toggles passthrough.
+
+Copy EPUB, PDF and TXT into Internal shared storage/eBooks. Import offers local files and PC/NAS via SMB. Connect opens the file list; Copy downloads a book to the headset. Delete in the library removes only the local file after confirmation.
+
+Environment offers Loft, Hotel suite and your panoramas. + Panorama opens the file browser at Pictures/Envoirement_3D. Mono: 2:1; stereo top/bottom: 1:1. Remove deletes only the reference; the original file stays unchanged.
+
+Language DE/EN/FR and Exit are in the settings popup. Your reading position is saved.
+
+With the main menu open, Grip moves the whole window, including at the edges, without turning a page. Under Display, Environment brightness dims the room and passthrough independently of the book and menus. Click the slider or hold the trigger and drag it.
+
+Ambient sounds and music
+
+Under Sound → Ambient Sounds, add references to your audio files. The browser starts in Internal shared storage/Music; you can choose subfolders or other folders. Formats: MP3, WAV, OGG, M4A, AAC and FLAC, depending on device codecs. Files stay in their original locations; no media copies are created. The trash icon removes only the entry. Missing files disappear when the menu refreshes. This also applies to custom panoramas. Select sounds and press Play to loop them together. Stop preserves the selection. Each sound has its own volume slider. Scroll longer lists with the stick.
+
+Under Sound → Music, choose a separate folder. Play runs its audio files alphabetically, automatically advancing to the next track. Subfolders are excluded. Playback stops after the final track. Music has separate Play/Stop and volume controls. Ambient sounds and music can play together. Master volume controls everything. Playback pauses when you leave the app.
+
+Follow Me pauses while the main menu is open. Grip remains available to move the window.
+
+CBZ and ZIP image books: place the archive in eBooks or import it through PC/NAS. JPG, PNG, WebP, GIF and BMP images, including subfolders, become naturally sorted pages (1, 2, 10). GIF shows its first frame. No page files are extracted. Page turns, zoom and bookmarks work as for PDF. ZIP files without supported images are not image books.
+
+
+Hand controls: pinch thumb and index finger at the book edge to turn a page; an edge pinch opens a closed book. Pinch at the spine to hold and move the book. Keep holding and pinch with the other hand: spread your hands to enlarge, bring them together to shrink, and move both forward/backward to change distance. Release one hand to continue holding with the other without a jump. In lists, hold a pinch and drag up/down to scroll; a short stationary pinch selects on release. Drag sliders with a held pinch. Thumb and middle finger still open/close the main menu.
+
+While holding with one hand, rotate or tilt your hand to adjust the book angle. Adding the second hand keeps that angle stable while resizing. A small opening of the pinch releases it.
+
+Page turning takes priority: most of each page accepts a pinch to turn. Only the narrow strip at the spine moves the book (the narrow middle of a closed book). A neutral buffer separates the actions. Before pinching, the ray indicates cyan = turn, amber = grab, grey = neutral. The action stays locked until release.
+
+Main menu → Controller lets you turn hand tracking on or off for PFD eReader. The setting is saved; use a controller to enable it again while hands are disabled. This does not change the operating system hand tracking setting.

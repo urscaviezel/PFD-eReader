@@ -1,0 +1,14 @@
+{
+  "name": "PFDReader.Editor",
+  "rootNamespace": "PFDReader.EditorTools",
+  "references": ["PFDReader.Runtime", "YVR.Core.Runtime", "YVR.Utilities.Runtime", "Unity.TextMeshPro"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,4 @@
+<linker>
+  <assembly fullname="SharpCompress" preserve="all"/>
+  <assembly fullname="System.Text.Encoding.CodePages" preserve="all"/>
+</linker>
