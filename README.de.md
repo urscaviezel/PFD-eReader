@@ -6,7 +6,7 @@
 
 Lies deine Bücher als echtes 3D-Buch, das du vor dir hältst – im Passthrough, im Dunkeln oder in einem von drei gemütlichen 3D-Räumen. Blättere mit dem Controller, setz dich aufs Sofa, mach Musik an oder schau YouTube auf dem Fernseher im Raum.
 
-> **Beta** – aktuelle Version: **v0.2.0**. Rückmeldungen und Fehlerberichte gerne über [Issues](https://github.com/urscaviezel/PFD-eReader/issues).
+> **Beta** – aktuelle Version: **v0.2.1**. Rückmeldungen und Fehlerberichte gerne über [Issues](https://github.com/urscaviezel/PFD-eReader/issues).
 
 ![Lesen im Loft](docs/images/room-loft.png)
 

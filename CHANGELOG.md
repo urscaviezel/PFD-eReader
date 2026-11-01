@@ -2,6 +2,11 @@
 
 *English below each version · Deutsch jeweils darunter*
 
+## Beta v0.2.1 – 2026-11-01
+
+- TV works again: v0.2.0 accidentally contained the trial version of the web view, which has expired
+- Fernseher funktioniert wieder: v0.2.0 enthielt versehentlich die inzwischen abgelaufene Testversion der Web-Ansicht
+
 ## Beta v0.2.0 – 2026-10-19
 
 First public version.
